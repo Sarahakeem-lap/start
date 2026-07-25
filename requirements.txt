@@ -1,0 +1,19 @@
+# Evro OCR Engine - المتطلبات
+# شغّل: pip install -r requirements.txt
+
+# استخراج PDF رقمي
+PyMuPDF>=1.27.0
+
+# استخراج PDF ممسوح (OCR)
+pytesseract>=0.3.10
+pdf2image>=1.16.0
+Pillow>=10.0.0
+
+# خادم الويب
+fastapi>=0.110.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+aiohttp>=3.9.0
+
+# AI اختياري (تنظيف النص)
+openai>=1.0.0
