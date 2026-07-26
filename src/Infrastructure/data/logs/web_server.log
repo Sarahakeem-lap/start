@@ -1,0 +1,7 @@
+2026-07-22 07:35:47 | INFO    | evro.prompts         | 📄 classification.yaml: 2 برومت
+2026-07-22 07:35:47 | INFO    | evro.prompts         | 📄 content_formatting.yaml: 2 برومت
+2026-07-22 07:35:47 | INFO    | evro.prompts         | 📄 image_extraction.yaml: 3 برومت
+2026-07-22 07:35:47 | INFO    | evro.prompts         | 📄 qa_extraction.yaml: 1 برومت
+2026-07-22 07:35:47 | INFO    | evro.prompts         | 📄 qa_validation.yaml: 2 برومت
+2026-07-22 07:35:47 | INFO    | evro.prompts         | ✅ تم تحميل 10 برومت من 5 ملف
+2026-07-22 07:35:47 | INFO    | evro.web             | ✅ تم تحميل البرومتات: 10
